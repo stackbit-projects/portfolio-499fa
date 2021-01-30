@@ -3,7 +3,7 @@ title: Dz startups
 subtitle: The algerian startups
 date: '2020-05-01'
 thumb_image: images/Capture.JPG
-thumb_image_alt: 'dz startup '
+thumb_image_alt: dz startup website in abderrahmane mustapha portfolio
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 template: project
