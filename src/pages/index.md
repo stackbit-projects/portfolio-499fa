@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Toumi abderrahmane'
     content: "I'm a software engineering student and a full-stack web developer passionate and ready to face challenges and solve\_problems, who enjoys working closely with others.\nThese days I'm learning about refactoring, code smells, and design patterns.\_\n\n"
     actions:
-      - label: Let's talk
+      - label: Contact me
         url: /contact
         style: button
   - section_id: latest-projects
