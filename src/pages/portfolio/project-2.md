@@ -1,7 +1,7 @@
 ---
 title: Dz limitless
 subtitle: 'limitless learning '
-date: '2020-04-30'
+date: '2020-06-30'
 thumb_image: images/panoramic-comet.JPG
 thumb_image_alt: An orange on a blue background
 image: images/interesting-goat.JPG
