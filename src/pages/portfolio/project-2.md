@@ -4,7 +4,7 @@ subtitle: 'limitless learning '
 date: '2019-04-30'
 thumb_image: images/panoramic-comet.JPG
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/interesting-goat.JPG
 image_alt: An orange on a blue background
 template: project
 ---
