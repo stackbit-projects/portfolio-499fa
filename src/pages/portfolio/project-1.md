@@ -1,7 +1,7 @@
 ---
 title: Dz startups
 subtitle: The algerian startups
-date: '2020-05-10'
+date: '2020-05-01'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
