@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Toumi abderrahmane'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "I'm a software engineering student and a full-stack web developer passionate and ready to face challenges and solve\_problems, who enjoys working closely with others.\nThese days I'm learning about refactoring, code smells, and design patterns.\_\n\n"
     actions:
       - label: Let's talk
         url: /contact
